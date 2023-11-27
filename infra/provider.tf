@@ -8,6 +8,6 @@ terraform {
   backend "s3" {
     bucket = "2000-terraform-state-bucket"
     key    = "apprunner.state"
-    region = "eu-central-1"
+    region = "eu-west-1"
   }
 }
