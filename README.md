@@ -1,4 +1,6 @@
 # DevOps2000
+[![Publish lambda function using Github actions and SAM](https://github.com/AbdulHamidA/DevOps2000/actions/workflows/pipeline1.yml/badge.svg)](https://github.com/AbdulHamidA/DevOps2000/actions/workflows/pipeline1.yml)
+[![Publish Docker image](https://github.com/AbdulHamidA/DevOps2000/actions/workflows/pipeline2.yml/badge.svg)](https://github.com/AbdulHamidA/DevOps2000/actions/workflows/pipeline2.yml)
 
 Task -1A 
 
