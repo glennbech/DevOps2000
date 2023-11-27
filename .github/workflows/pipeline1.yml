@@ -1,4 +1,4 @@
-name: Publish lambda function
+name: Publish lambda function using Github actions
 
 on:
   workflow_dispatch:
