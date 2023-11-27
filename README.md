@@ -1,4 +1,3 @@
-# Eksamen PGR301 2023
 
 ## Krav til leveransen
 
