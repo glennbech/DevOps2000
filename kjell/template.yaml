@@ -16,13 +16,13 @@ Resources:
   Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: "2000-bucket"
+      BucketName: "2000-bucket-sensur"
   HelloWorldFunction:
     Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
     Properties:
       Environment:
         Variables:
-          BUCKET_NAME: "2000-bucket"
+          BUCKET_NAME: "2000-bucket-sensur"
       CodeUri: hello_world/
       Handler: app.lambda_handler
       Runtime: python3.9
